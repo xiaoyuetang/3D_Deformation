@@ -1,0 +1,7 @@
+pandas
+numpy
+imutils
+dlib
+opencv
+eos
+plotly
